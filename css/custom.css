@@ -10,6 +10,15 @@
 .u-pull-left {
   float: left; }
 
+/* Make sure elements don't run outside containers (great for images in columns) */
+.u-max-full-width {
+  max-width: 100%;
+  box-sizing: border-box; }
+
 .u-full-width {
   width: 100%;
   box-sizing: border-box; }
+
+.justified {
+  text-align: justify;
+  text-justify: inter-word; }
