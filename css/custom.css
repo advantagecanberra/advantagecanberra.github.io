@@ -22,3 +22,7 @@
 .justified {
   text-align: justify;
   text-justify: inter-word; }
+
+img {
+  padding: 5px
+}
