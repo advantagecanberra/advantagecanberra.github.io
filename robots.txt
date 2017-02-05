@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://canberracopywriting.com.au/sitemap.txt
